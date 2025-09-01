@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@mantine/core": "^7.12.2",
-    "@mantine/hooks": "^7.12.2",
+    "@mantine/core": "7.12.2",
+    "@mantine/hooks": "7.12.2",
     "@tabler/icons-react": "^3.34.1",
     "@tailwindcss/postcss": "^4.1.12",
     "@types/react-router-dom": "^5.3.3",
