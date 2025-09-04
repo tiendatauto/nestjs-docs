@@ -85,5 +85,10 @@ export const docsTree: DocsTree = {
         },
       ],
     },
+    {
+      name: "ecommerce",
+      icon: "🚀",
+      files: ["user", "cart", "product", "order", "payment", "rbac-pbac"],
+    },
   ],
 };
